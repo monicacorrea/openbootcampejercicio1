@@ -1,0 +1,3 @@
+minombre= "Mónica"
+print(minombre)
+type(minombre)
