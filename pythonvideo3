@@ -1,0 +1,12 @@
+DatosContacto= {
+    'Nombre':'Javier',
+    'Apellidos':'Alvarez I', 
+    'Edad':'33',
+    'Email':'correo@correo.com',
+    'Teléfono':'666123',
+    'Casado':'Sí',
+    'Hijos':'Sí',
+    'Amigos':'María, Pedro, José',
+    'Peliculas':'Dr. Strange'
+}
+print(DatosContacto)
