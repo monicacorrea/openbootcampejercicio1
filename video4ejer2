@@ -1,0 +1,10 @@
+#Escribe un programa capaz de mostrar todos los números impares desde un número de inicio y otro final.
+
+start, end = 0, 100
+
+# iteración en la lista
+for num in range(start, end + 1):
+    
+    # Chequear la condición impar
+    if num % 2 != 0:
+        	print(num, end = " ")
